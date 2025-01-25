@@ -1,8 +1,9 @@
 #include <iostream> 
+using namespace std;
 
-void main(){
+int main(){
    while (1){
-        int  x, c=0, count =2;
+        long long x, c=0, count =2;
         cout<<"factorization:";
         cin>>x;
         cout<<x;
@@ -20,4 +21,5 @@ void main(){
         }
         cout<<"\n\n";
     }
+    return 0;
 }
