@@ -1,1 +1,1 @@
-# prime
+factorization,The greatest common divisor and The lowest common multiple
