@@ -1,1 +1,1 @@
-factorization,The greatest common divisor and The lowest common multiple
+factorization,The greatest common divisor(gcd) and The lowest common multiple(lcm)
